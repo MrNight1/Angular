@@ -38,3 +38,4 @@ environment.*
 # System Files
 .DS_Store
 Thumbs.db
+environment.ts
